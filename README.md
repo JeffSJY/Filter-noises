@@ -1,4 +1,4 @@
-### Filtros & Ruidos
+### Filtros & Ruídos
 ![filtros ruidos](https://user-images.githubusercontent.com/46036174/86392548-01c1e780-bc72-11ea-9686-a2ec67aa2ff8.png)
 
 
@@ -89,7 +89,7 @@ g++ main.cpp -o output `pkg-config --cflags --libs opencv`
 ./output
 ```
 
-### Filtros & Ruidos
+### Filtros & Ruídos
 * [Zoom](https://pt.wikipedia.org/wiki/Zoom_(efeito)) 
 * [Gaussiano](https://en.wikipedia.org/wiki/Gaussian_filter) 
 * [Prewitt](https://pt.wikipedia.org/wiki/Operador_Prewitt)
